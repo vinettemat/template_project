@@ -1,0 +1,10 @@
+numpy
+pandas
+xlrd
+XlsxWriter
+xlwt
+tqdm
+jupyter
+matplotlib
+requests
+Sphinx
